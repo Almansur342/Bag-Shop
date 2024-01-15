@@ -1,0 +1,13 @@
+@media screen and (max-width:676px) {
+  .nav-section{
+    flex-direction: column;
+    /* align-items: center; */
+    /* margin-left: 20px; */
+    align-items: center;
+  }
+  .items-container{
+    flex-direction: column;
+    gap: 20px;
+    
+  }
+}
